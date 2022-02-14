@@ -3,8 +3,7 @@ import validator from './validator.js';
 
 
 let elementoBtn = document.getElementById('finishButton');
-// let nomeNaTela = document.getElementById('inputnome');
-let cardNumber = document.getElementById('cardinput');
+let cardNumber = document.getElementById('cardInput');
 let cardNumberHidden = document.getElementById('cardinput-hidden');
 
 elementoBtn.addEventListener("click", function () {
@@ -25,7 +24,6 @@ elementoBtn.addEventListener("click", function () {
     alert(msgErro);
   }
 
-  cardNumberHidden.value = "";
 });
 
 cardNumber.addEventListener("keyup", function(event) {
