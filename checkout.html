@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Adicionar cartão</title>
+  <link rel="shortcut icon" href="images/catlogo.png"/>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="shortcut icon" href="images/catsilhouette.png" />
+  <script src="index.js" type="module"></script>
+
+</head>
+
+<body>
+  <div class="topcontainer">
+    <header>
+      <h1 id="logo">Cat Lovers</h1>
+    </header>
+  </div>
+
+
+  <section class="middlecontainer">
+    <form>
+      <h2>Preencha seus dados</h2>
+      <label>Nome</label>
+      <input id="inputnome" autocomplete="off" type="text" placeholder="nome idêntico ao escrito no cartão" required />
+
+      <br>
+
+      <label>Número do cartão</label>
+      <input id="cardInput" type="text" maxlength="16" name="card" placeholder="apenas números" required autocomplete="off"/>
+      <input id="cardinput-hidden" type="hidden">
+    </form>
+  </section>
+  <br>
+
+  <button id="finishButton" class="finishbtn">ADICIONAR CARTÃO</button>
+
+  <div class="bottomcontainer">
+    <footer>
+
+      <a href="https://www.linkedin.com/helenags"> <img class="footer-link" src="images/linkedin.png"> </a>
+      <a href="https://github.com/nannayusuf"> <img class="footer-link" src="images/github.png"> </a>
+      <p class="copyright">Cat Lovers</p>
+      <p>Desenvolvido por Helena Gonçalves SAP007 Laboratoria </p>
+    </footer>
+  </div>
+    <script src="index.js" type="module"></script>
+  </body>
+
+
+</html>
