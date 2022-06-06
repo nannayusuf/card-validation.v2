@@ -4,12 +4,10 @@
 
 
    * [1- Introdução](#introdução)
-   * [2- Status](#status)
-   * [3- Funcionamento](#funcionamento)
-   * [4- Planejamento](#planejamento)
-   * [5- Protótipo](#protótipo)
-   * [6- Aprendizado](#aprendizado)
-   * [7- Sobre Mim](#sobre-mim)
+   * [2- Funcionamento](#funcionamento)
+   * [3- Planejamento](#planejamento)
+   * [4- Aprendizado](#aprendizado)
+   * [5- Sobre Mim](#sobre-mim)
 
 
 
@@ -29,29 +27,21 @@ seus dígitos finais for um múltiplo de 10.
 ![gráfico do algoritmo de
 Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
-## 2. Status
 
-Concluído
+## 2. Funcionamento
 
-## 3. Funcionamento
+ O sistema consiste em uma página de apresentação e checkout, onde o usuário deverá colocar dados do cartão no input que irá mascarar os primeiros 12 números mostrando apenas os quatro últimos, validando após clicar no botão.
 
- O sistema consiste em uma página de apresentação e checkout, onde o usuário deverá colocar dados do cartão no input. que irá mascarar e validar o número.
-
-## 4. Planejamento
+## 3. Planejamento
 
 O projeto foi desenvolvido em 4 sprints, Pirmeiramente tratava-se de uma carteira virtual, onde o cartão era adicionado à conta após validado, a mudança pro projeto final de subscritption box ocorreu por que havia maior identificação da minha parte com esse projeto onde pude unir gatinhos e validação em uníco projeto.
-  
-## 5. Protótipo
 
---
-
-
-## 6. Aprendizado
+## 4. Aprendizado
 
 Meu objetivo principal é trabalhar lógica de programação me apropriar do JS, seja no entedimento básico da leitura da estrutura do código até a sintaxe.
 
  
-## 7. Sobre Mim
+## 5. Sobre Mim
 
-Helena, cat lover, atualmente estudando desenvolvimento front end no bootcamp Laboratoria geração 007.
+Helena, cat lover, atualmente estudando desenvolvimento front end no bootcamp Laboratória - Geração 007.
 
