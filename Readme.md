@@ -1,11 +1,11 @@
-# Cartão de Crédito Válido
+# Cartão de Crédito Válido - CatLovers
 
 ## Índice
 
 
    * [1- Introdução](#introdução)
    * [2- Funcionamento](#funcionamento)
-   * [3- Planejamento](#planejamento)
+   * [3- Produto](#produto)
    * [4- Aprendizado](#aprendizado)
    * [5- Sobre Mim](#sobre-mim)
 
@@ -32,9 +32,11 @@ Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
  O sistema consiste em uma página de apresentação e checkout, onde o usuário deverá colocar dados do cartão no input que irá mascarar os primeiros 12 números mostrando apenas os quatro últimos, validando após clicar no botão.
 
-## 3. Planejamento
+## 3. UX
 
-O projeto foi desenvolvido em 4 sprints, Pirmeiramente tratava-se de uma carteira virtual, onde o cartão era adicionado à conta após validado, a mudança pro projeto final de subscritption box ocorreu por que havia maior identificação da minha parte com esse projeto onde pude unir gatinhos e validação em uníco projeto.
+Os usuários da aplicação são pessoas que desejam assinar uma Signature Box temática desenvolvida especialmente pra gatinhos e seus donos no conforto do seu lar. Os Usuários do ssitema desejam aceder ao serviço oferecido de forma segura, com a certeza de que seus dados serão efetivamente válidos e ocultados.
+
+A aplicação CatLovers permite que os usuários possam validar e mascarar simultaneamente seu cartão de crédito através de un formulário que permite ingressar seus dados e un botão de validação.
 
 ## 4. Aprendizado
 
