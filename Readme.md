@@ -5,9 +5,9 @@
 
    * [1- Introdução](#introdução)
    * [2- Funcionamento](#funcionamento)
-   * [3- Produto](#produto)
+   * [3- UX](#UX)
    * [4- Aprendizado](#aprendizado)
-   * [5- Sobre Mim](#sobre-mim)
+   * [5- Deploy](#deploy)
 
 
 
@@ -43,7 +43,6 @@ A aplicação CatLovers permite que os usuários possam validar e mascarar simul
 Meu objetivo principal é trabalhar lógica de programação me apropriar do JS, seja no entedimento básico da leitura da estrutura do código até a sintaxe.
 
  
-## 5. Sobre Mim
-
-Helena, cat lover, atualmente estudando desenvolvimento front end no bootcamp Laboratória - Geração 007.
+## 5. Deploy
+Conheça a aplicação através do link https://nannayusuf.github.io/card-validation.v2/
 
