@@ -36,7 +36,7 @@ Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
 Os usuários da aplicação são pessoas que desejam assinar uma Signature Box temática desenvolvida especialmente pra gatinhos e seus donos no conforto do seu lar. Os Usuários do ssitema desejam aceder ao serviço oferecido de forma segura, com a certeza de que seus dados serão efetivamente válidos e ocultados.
 
-A aplicação CatLovers permite que os usuários possam validar e mascarar simultaneamente seu cartão de crédito através de un formulário que permite ingressar seus dados e un botão de validação.
+A aplicação CatLovers permite que os usuários possam validar e mascarar simultaneamente seu cartão de crédito através de um formulário que permite ingressar seus dados e um botão que os valida.
 
 ## 4. Aprendizado
 
