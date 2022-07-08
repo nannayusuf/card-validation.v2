@@ -1,6 +1,6 @@
 # Cartão de Crédito Válido - CatLovers
 
-![Logo Catlovers](./src/images/CatLoversLogo.png)
+<img src="src/images/CatLoversLogo.png">
 
 ## Índice
 
