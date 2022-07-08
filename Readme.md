@@ -1,5 +1,7 @@
 # Cartão de Crédito Válido - CatLovers
 
+![Logo Catlovers](/src/images/logo.png)
+
 ## Índice
 
 
