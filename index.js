@@ -27,7 +27,7 @@ elementoBtn.addEventListener("click", function () {
 });
 
 cardNumber.addEventListener("keyup", function(event) {
-  let number = parseInt(event.key);
+  let number = parseInt(event.key); 
 
   if (!isNaN(number)) {
     cardNumberHidden.value = cardNumberHidden.value + event.key;
