@@ -1,6 +1,6 @@
 # Cartão de Crédito Válido - CatLovers
 
-![Logo](https://www.imagemhost.com.br/image/rY0MzP)">
+![Logo](https://www.imagemhost.com.br/image/rY0MzP)
 
 ## Índice
 
